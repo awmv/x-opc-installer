@@ -2,7 +2,7 @@
 
 Upon request, I share these PowerShell scripts that I use as an alternative way to install and uninstall X-OPC services quickly, as the official installer does a lot of unnecessary steps and offers no GUIless interface. I have no affiliation with HIMA, nor do I take responsibility for compatibility issues or issues, in general, that might arise by using these tools.
 
-<picture>
+![Install X-OPC services](/screenshots/gui.png)
 
 I have found this solution to work in a production-ready environment for X-OPC version `X_OPC V5.2.1204` for OPC DA servers deployed with `SILWorX version 11`.
 You would need to download the official binary from HIMA directly as I don't want to share its contents within this repository. This step is required to make this tool work.
